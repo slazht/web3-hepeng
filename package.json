@@ -1,0 +1,15 @@
+{
+  "name": "webtiga",
+  "version": "1.0.0",
+  "description": "Api Web3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saiful Azhari",
+  "license": "ISC",
+  "dependencies": {
+    "ethereumjs-tx": "^2.1.2",
+    "web3": "^1.8.1"
+  }
+}
